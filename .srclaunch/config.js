@@ -9,8 +9,8 @@ import {
 } from '@srclaunch/types';
 
 export default {
-  name: '@srclaunch/actions',
-  description: 'SrcLaunch Actions',
+  name: '@srclaunch/i18n',
+  description: 'Internationalization utilities',
   type: ProjectType.Library,
   build: {
     formats: [BuildFormat.ESM, BuildFormat.UMD],
