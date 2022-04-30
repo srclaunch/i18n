@@ -1,5 +1,0 @@
-{"total": {"lines":{"total":155,"covered":0,"skipped":0,"pct":0},"statements":{"total":155,"covered":0,"skipped":0,"pct":0},"functions":{"total":3,"covered":0,"skipped":0,"pct":0},"branches":{"total":3,"covered":0,"skipped":0,"pct":0},"branchesTrue":{"total":0,"covered":0,"skipped":0,"pct":100}}
-,"/Users/steven/Projects/srclaunch/packages/i18n/src/index.ts": {"lines":{"total":5,"covered":0,"skipped":0,"pct":0},"functions":{"total":1,"covered":0,"skipped":0,"pct":0},"statements":{"total":5,"covered":0,"skipped":0,"pct":0},"branches":{"total":1,"covered":0,"skipped":0,"pct":0}}
-,"/Users/steven/Projects/srclaunch/packages/i18n/src/currency/index.ts": {"lines":{"total":65,"covered":0,"skipped":0,"pct":0},"functions":{"total":1,"covered":0,"skipped":0,"pct":0},"statements":{"total":65,"covered":0,"skipped":0,"pct":0},"branches":{"total":1,"covered":0,"skipped":0,"pct":0}}
-,"/Users/steven/Projects/srclaunch/packages/i18n/src/locale/index.ts": {"lines":{"total":85,"covered":0,"skipped":0,"pct":0},"functions":{"total":1,"covered":0,"skipped":0,"pct":0},"statements":{"total":85,"covered":0,"skipped":0,"pct":0},"branches":{"total":1,"covered":0,"skipped":0,"pct":0}}
-}
